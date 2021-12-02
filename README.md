@@ -3,7 +3,8 @@
 ```diff
 Hi, Im Souhardya 🔮.
 
-@@Breaking things@@
+*I write malwares and people pay me to protect them from malwares*
+
 - 19 years old
 ! Malware researcher / Full stack developer / Windows pwnage junkie
 # 📖 Reverse engineering, Virii and lots of programming shenanigans
