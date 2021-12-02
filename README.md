@@ -5,6 +5,6 @@ hi, im Souhardya 🔮.
 
 @@Malware researcher@@
 - 19 years old
-! malware researcher , full stack developer and windows junkie 
+! malware researcher / full stack developer / windows junkie 
 # 📖 reverse engineering, virii, programming in lots of languages and breaking kernels   
 ```
