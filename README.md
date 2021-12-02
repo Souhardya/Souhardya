@@ -3,8 +3,8 @@
 ```diff
 hi, im Souhardya 🔮.
 
-Breaking things always
+@@Breaking things@@
 - 19 years old
 ! malware researcher / full stack developer / windows pwnage junkie
-# 📖 reverse engineering, virii and lots of programming   
+# 📖 reverse engineering, virii and lots of programming shenanigans
 ```
