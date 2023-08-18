@@ -3,9 +3,9 @@
 ```diff
 Hi, Im Souhardya 🔮.
 
-I write malwares and people pay me to protect them from malwares
+I write malwares and get paid for it 
 
-- 19 years old
+- 21 years old
 ! Malware researcher / Full stack developer / Abusing Windows for a living
 # 📖 Reverse engineering, Virii and lots of programming shenanigans
 ```
