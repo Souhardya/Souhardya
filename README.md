@@ -3,7 +3,7 @@
 ```diff
 Hi, Im Souhardya 🔮.
 
-I write malwares and get paid for it 
+I write and break software
 
 - 21 years old
 ! Malware researcher / Product Architect / Abusing Windows for a living
